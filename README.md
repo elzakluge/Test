@@ -1,0 +1,2 @@
+# Orgoniti
+Kvalifikācijas datbs 
